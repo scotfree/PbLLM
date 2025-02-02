@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+python-multipart
+openai
+apscheduler
+authlib
+httpx
+python-dotenv 
